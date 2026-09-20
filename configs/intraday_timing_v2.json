@@ -1,0 +1,158 @@
+{
+  "strategy_version": "three_method_strategy_20260915_entry_evidence",
+  "fail_closed": true,
+  "history": {
+    "min_120m_bars": 240,
+    "min_15m_bars": 20,
+    "ma_periods": [5, 20, 99, 128, 225],
+    "slope_lookback": 3,
+    "atr_period": 14
+  },
+  "extension": {
+    "extended_atr": 1.5,
+    "climax_atr": 2.5
+  },
+  "location": {
+    "near_level_atr": 0.35,
+    "support_lookback_15m": 5,
+    "resistance_lookback_15m": 20,
+    "structural_lookback_120m": 3
+  },
+  "room_risk": {
+    "min_room_atr": 1.0,
+    "min_reward_risk": 1.5,
+    "execution_band_atr": 0.1,
+    "invalidation_atr": 0.35,
+    "min_resistance_distance_atr": 0.75,
+    "min_entry_risk_atr": 0.75,
+    "entry_invalidation_atr": 0.2
+  },
+  "path": {
+    "weak_close": 0.2,
+    "rally_failure_high_to_now_atr": 0.9,
+    "shock_high_to_now_atr": 1.5,
+    "shock_rvol": 1.5
+  },
+  "execution": {
+    "min_closed_5m_bars": 3,
+    "min_closed_15m_bars": 1,
+    "require_vwap_reclaim": true,
+    "require_higher_low": true,
+    "min_amount_ratio_1m": 1.0,
+    "min_amount_ratio_5m": 1.0,
+    "min_amount_ratio_1m_floor": 0.55,
+    "min_amount_ratio_5m_floor": 0.8,
+    "volume_confirmation_mode": "either",
+    "max_vwap_distance_atr": 0.35
+  },
+  "leader_identity": {
+    "min_relative_board_pct": 1.0,
+    "max_leader_gap_pct": 2.0
+  },
+  "leader_second_leg": {
+    "enabled": true,
+    "min_intraday_15m_bars": 3,
+    "min_pct": 3.0,
+    "max_pct": 8.8,
+    "min_amount_yi": 8.0,
+    "max_vwap_distance_pct": 3.0,
+    "min_pullback_retrace": 0.10,
+    "max_pullback_retrace": 0.618,
+    "base_volume_bars": 3,
+    "min_resume_volume_ratio": 1.20,
+    "require_5m_breakout": true,
+    "breakout_valid_bars": 3,
+    "min_limit_room_pct": 0.8,
+    "strong_board_pct": 1.5
+  },
+  "leader_opening_reversal": {
+    "enabled": true,
+    "start": "09:35",
+    "end": "10:15",
+    "min_closed_5m_bars": 2,
+    "min_pct": 0.5,
+    "max_pct": 6.5,
+    "min_open_gap_pct": -7.0,
+    "max_open_gap_pct": 3.0,
+    "min_amount_yi": 0.5,
+    "min_projected_amount_yi": 8.0,
+    "min_turnover": 4.0,
+    "max_vwap_distance_pct": 5.0,
+    "min_limit_room_pct": 2.0,
+    "strong_board_pct": 1.5
+  },
+  "leader_opening_hold": {
+    "enabled": true,
+    "start": "09:35",
+    "end": "10:00",
+    "min_closed_5m_bars": 1,
+    "min_pct": 1.0,
+    "max_pct": 7.5,
+    "min_open_gap_pct": -2.0,
+    "max_open_gap_pct": 5.0,
+    "min_projected_amount_yi": 8.0,
+    "min_turnover": 4.0,
+    "max_vwap_distance_pct": 3.0,
+    "min_limit_room_pct": 2.0
+  },
+  "method_execution": {
+    "TREND_520": {
+      "vwap_distance_period": "1d",
+      "max_vwap_distance_atr": 0.25,
+      "min_room_atr": 0.0
+    },
+    "TREND_MA5": {
+      "require_vwap_reclaim": false,
+      "vwap_distance_period": "1d",
+      "max_vwap_distance_atr": 0.25,
+      "min_room_atr": 0.0
+    }
+  },
+  "daily_method_entry": {
+    "touch_atr": 0.15,
+    "max_touch_distance_pct": 0.3,
+    "min_confirmation_advance_atr": 0.02,
+    "max_anchor_distance_atr": 0.5,
+    "stop_buffer_atr": 0.2
+  },
+  "repair_upgrade": {
+    "enabled": false,
+    "min_intraday_15m_bars": 4,
+    "min_pct": 1.5,
+    "max_pct": 6.5,
+    "max_pullback_retrace": 0.6,
+    "min_resume_volume_ratio": 0.9,
+    "max_vwap_distance_pct": 1.8,
+    "allowed_market_states": ["growth_lead", "broad_strong", "recovery", "rotation"],
+    "probe_multiplier": 0.2
+  },
+  "flat_base_breakout": {
+    "enabled": false,
+    "min_intraday_15m_bars": 6,
+    "base_bars": 4,
+    "min_pct": 1.0,
+    "max_pct": 6.5,
+    "min_amount_yi": 5.0,
+    "max_base_range_atr": 5.0,
+    "max_base_range_pct": 2.8,
+    "min_breakout_atr": 0.25,
+    "min_breakout_volume_ratio": 1.35,
+    "max_vwap_distance_pct": 3.2,
+    "min_limit_room_pct": 2.0,
+    "strong_board_pct": 1.5,
+    "probe_multiplier": 0.2
+  },
+  "time": {
+    "no_new_entry_after": "14:45",
+    "risk_only_after": "14:15"
+  },
+  "exit_confirmation": {
+    "soft_exit_not_before": "09:35",
+    "min_closed_5m_bars": 1,
+    "min_intraday_closed_15m_bars": 1
+  },
+  "position": {
+    "probe_multiplier": 0.33,
+    "standard_multiplier": 1.0
+  }
+}

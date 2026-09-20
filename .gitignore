@@ -1,0 +1,48 @@
+# macOS and editor state
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Python environments and caches
+.venv/
+.venv_*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local browser automation artifacts
+.playwright-cli/
+
+# Secrets and machine-local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Runtime state, market-data caches, ledgers, and logs
+data/
+logs/
+output/
+*.sqlite
+*.sqlite3
+*.db
+*.jsonl
+
+# Generated dashboard/report payloads
+web_dashboard/data/
+report_*.html
+
+# Packaged migration/export artifacts
+*.zip
+*.tar
+*.tar.gz
+

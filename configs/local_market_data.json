@@ -1,0 +1,13 @@
+{
+  "version": "free_local_market_data_v1",
+  "primary": "tencent",
+  "fallback": "sina",
+  "historical_timeframe": "60m",
+  "required_120m_bars": 240,
+  "policy": {
+    "history_source": "whole_source_segment_only",
+    "cross_check": "tencent_vs_sina_latest_8_60m_bars",
+    "cross_check_failure": "block_new_buy_keep_risk_exit_enabled",
+    "eastmoney": "probe_only_not_execution_source"
+  }
+}

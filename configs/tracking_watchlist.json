@@ -1,0 +1,3001 @@
+{
+  "version": 1,
+  "verified_at": "2026-09-14 19:53:36",
+  "source": "/Users/tonyyu/Documents/Ai分析持仓股票订盘/output/watchlist_inventory_20260914/同花顺全目录与盯盘清单_20260914.md",
+  "policy": "exclude_etf; reference_only_non_equity; additive_no_auto_removal",
+  "missing_from_latest_inventory": [],
+  "records": [
+    {
+      "code": "000021",
+      "name": "深科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000070",
+      "name": "特发信息",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000155",
+      "name": "川能动力",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000408",
+      "name": "藏格矿业",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000428",
+      "name": "华天酒店",
+      "kind": "equity",
+      "groups": [
+        "消费"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000506",
+      "name": "招金黄金",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000547",
+      "name": "航天发展",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000617",
+      "name": "中油资本",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000630",
+      "name": "铜陵有色",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000636",
+      "name": "风华高科",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000733",
+      "name": "振华科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000737",
+      "name": "北方铜业",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000738",
+      "name": "航发控制",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000762",
+      "name": "西藏矿业",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000767",
+      "name": "晋控电力",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000768",
+      "name": "中航西飞",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000823",
+      "name": "超声电子",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000831",
+      "name": "中国稀土",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000878",
+      "name": "云南铜业",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000892",
+      "name": "欢瑞世纪",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000917",
+      "name": "电广传媒",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000938",
+      "name": "紫光股份",
+      "kind": "equity",
+      "groups": [
+        "9月观察池",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000960",
+      "name": "锡业股份",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000977",
+      "name": "浪潮信息",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000978",
+      "name": "桂林旅游",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000980",
+      "name": "众泰汽车",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000988",
+      "name": "华工科技",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000989",
+      "name": "九芝堂",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "000993",
+      "name": "闽东电力",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "001232",
+      "name": "嘉立创",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "001267",
+      "name": "汇绿生态",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "001268",
+      "name": "联合精密",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "001280",
+      "name": "中国铀业",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "001309",
+      "name": "德明利",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "001379",
+      "name": "腾达科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002009",
+      "name": "天奇股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002015",
+      "name": "协鑫能科",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002025",
+      "name": "航天电器",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002041",
+      "name": "登海种业",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002080",
+      "name": "中材科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002124",
+      "name": "天邦食品",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002126",
+      "name": "银轮股份",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002129",
+      "name": "TCL中环",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002131",
+      "name": "利欧股份",
+      "kind": "equity",
+      "groups": [
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002149",
+      "name": "西部材料",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002156",
+      "name": "通富微电",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002182",
+      "name": "宝武镁业",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002192",
+      "name": "融捷股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002194",
+      "name": "武汉凡谷",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002195",
+      "name": "岩山科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002196",
+      "name": "方正电机",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002201",
+      "name": "九鼎新材",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002202",
+      "name": "金风科技",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002218",
+      "name": "拓日新能",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002222",
+      "name": "福晶科技",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002241",
+      "name": "歌尔股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002250",
+      "name": "联化科技",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002281",
+      "name": "光迅科技",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002297",
+      "name": "博云新材",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002298",
+      "name": "中电鑫龙",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002353",
+      "name": "杰瑞股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002361",
+      "name": "神剑股份",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002371",
+      "name": "北方华创",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002384",
+      "name": "东山精密",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO",
+        "我的股票"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002389",
+      "name": "航天彩虹",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002407",
+      "name": "多氟多",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002409",
+      "name": "雅克科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002418",
+      "name": "康盛股份",
+      "kind": "equity",
+      "groups": [
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002428",
+      "name": "云南锗业",
+      "kind": "equity",
+      "groups": [
+        "CPO",
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002436",
+      "name": "兴森科技",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "我的股票"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002448",
+      "name": "中原内配",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002463",
+      "name": "沪电股份",
+      "kind": "equity",
+      "groups": [
+        "CPO",
+        "我的股票"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002465",
+      "name": "海格通信",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002466",
+      "name": "天齐锂业",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002475",
+      "name": "立讯精密",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002484",
+      "name": "江海股份",
+      "kind": "equity",
+      "groups": [
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002487",
+      "name": "大金重工",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002491",
+      "name": "通鼎互联",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "我的股票",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002519",
+      "name": "银河电子",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002520",
+      "name": "日发精机",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002536",
+      "name": "飞龙股份",
+      "kind": "equity",
+      "groups": [
+        "9月观察池",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002549",
+      "name": "凯美特气",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002552",
+      "name": "宝鼎科技",
+      "kind": "equity",
+      "groups": [
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002560",
+      "name": "通达股份",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002585",
+      "name": "双星新材",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002636",
+      "name": "金安国纪",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002639",
+      "name": "雪人集团",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002716",
+      "name": "湖南白银",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002747",
+      "name": "埃斯顿",
+      "kind": "equity",
+      "groups": [
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002756",
+      "name": "永兴材料",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002812",
+      "name": "恩捷股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002815",
+      "name": "崇达技术",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002821",
+      "name": "凯莱英",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002837",
+      "name": "英维克",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002851",
+      "name": "麦格米特",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002881",
+      "name": "美格智能",
+      "kind": "equity",
+      "groups": [
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002886",
+      "name": "沃特股份",
+      "kind": "equity",
+      "groups": [
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002902",
+      "name": "铭普光磁",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002916",
+      "name": "深南电路",
+      "kind": "equity",
+      "groups": [
+        "我的股票"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002931",
+      "name": "锋龙股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002952",
+      "name": "亚世光电",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002975",
+      "name": "博杰股份",
+      "kind": "equity",
+      "groups": [
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "002993",
+      "name": "奥海科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "003018",
+      "name": "金富科技",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "003022",
+      "name": "联泓新科",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "003032",
+      "name": "传智教育",
+      "kind": "equity",
+      "groups": [
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "003035",
+      "name": "南网能源",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "160644",
+      "name": "港美互联网LOF",
+      "kind": "reference_fund",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300007",
+      "name": "汉威科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300017",
+      "name": "网宿科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300022",
+      "name": "吉峰科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300058",
+      "name": "蓝色光标",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300083",
+      "name": "创世纪",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300118",
+      "name": "东方日升",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300133",
+      "name": "华策影视",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300136",
+      "name": "信维通信",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "我的股票"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300139",
+      "name": "晓程科技",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300170",
+      "name": "汉得信息",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300209",
+      "name": "行云科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300274",
+      "name": "阳光电源",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300285",
+      "name": "国瓷材料",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300300",
+      "name": "海峡创新",
+      "kind": "equity",
+      "groups": [
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300308",
+      "name": "中际旭创",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300319",
+      "name": "麦捷科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300347",
+      "name": "泰格医药",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300364",
+      "name": "中文在线",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300390",
+      "name": "天华新能",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300394",
+      "name": "天孚通信",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300408",
+      "name": "三环集团",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300413",
+      "name": "芒果超媒",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300438",
+      "name": "鹏辉能源",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300442",
+      "name": "润泽科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300450",
+      "name": "先导智能",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300499",
+      "name": "高澜股份",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300502",
+      "name": "新易盛",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300503",
+      "name": "昊志机电",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300531",
+      "name": "优博讯",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300548",
+      "name": "长芯博创",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300558",
+      "name": "贝达药业",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300563",
+      "name": "神宇股份",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300615",
+      "name": "欣天科技",
+      "kind": "equity",
+      "groups": [
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300620",
+      "name": "光库科技",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300677",
+      "name": "英科医疗",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300751",
+      "name": "迈为股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300763",
+      "name": "锦浪科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300769",
+      "name": "德方纳米",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300775",
+      "name": "三角防务",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300827",
+      "name": "上能电气",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300844",
+      "name": "山水比德",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300913",
+      "name": "兆龙互连",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "300943",
+      "name": "春晖智控",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301070",
+      "name": "开勒股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301071",
+      "name": "力量钻石",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301080",
+      "name": "百普赛斯",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "kind": "equity",
+      "groups": [
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301183",
+      "name": "东田微",
+      "kind": "equity",
+      "groups": [
+        "CPO",
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301308",
+      "name": "江波龙",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301336",
+      "name": "趣睡科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301358",
+      "name": "湖南裕能",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301396",
+      "name": "宏景科技",
+      "kind": "equity",
+      "groups": [
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301511",
+      "name": "德福科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301526",
+      "name": "国际复材",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301580",
+      "name": "爱迪特",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "301595",
+      "name": "太力科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "501026",
+      "name": "财通福享混合LOF",
+      "kind": "reference_fund",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "501046",
+      "name": "财通福鑫定开混合",
+      "kind": "reference_fund",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600089",
+      "name": "特变电工",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600096",
+      "name": "云天化",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600105",
+      "name": "永鼎股份",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600111",
+      "name": "北方稀土",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600118",
+      "name": "中国卫星",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600172",
+      "name": "黄河旋风",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600176",
+      "name": "中国巨石",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600183",
+      "name": "生益科技",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600184",
+      "name": "光电股份",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600186",
+      "name": "莲花控股",
+      "kind": "equity",
+      "groups": [
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600206",
+      "name": "有研新材",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600211",
+      "name": "西藏药业",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600219",
+      "name": "南山铝业",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600227",
+      "name": "赤天化",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600237",
+      "name": "铜峰电子",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600246",
+      "name": "万通发展",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600301",
+      "name": "华锡有色",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600313",
+      "name": "农发种业",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600330",
+      "name": "天通股份",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600338",
+      "name": "西藏珠峰",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600343",
+      "name": "航天动力",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600352",
+      "name": "浙江龙盛",
+      "kind": "equity",
+      "groups": [
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600354",
+      "name": "敦煌种业",
+      "kind": "equity",
+      "groups": [
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600362",
+      "name": "江西铜业",
+      "kind": "equity",
+      "groups": [
+        "9月观察池",
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600396",
+      "name": "华电辽能",
+      "kind": "equity",
+      "groups": [
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600406",
+      "name": "国电南瑞",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600410",
+      "name": "华胜天成",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600460",
+      "name": "士兰微",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600487",
+      "name": "亨通光电",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600490",
+      "name": "鹏欣资源",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600498",
+      "name": "烽火通信",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600501",
+      "name": "航天晨光",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600549",
+      "name": "厦门钨业",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600584",
+      "name": "长电科技",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "我的股票"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600589",
+      "name": "大位科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600619",
+      "name": "海立股份",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600641",
+      "name": "先导基电",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600649",
+      "name": "城投控股",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600673",
+      "name": "东阳光",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600685",
+      "name": "中船防务",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600693",
+      "name": "东百集团",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "消费"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600703",
+      "name": "三安光电",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600721",
+      "name": "百花医药",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600722",
+      "name": "金牛化工",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600778",
+      "name": "友好集团",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600785",
+      "name": "新华百货",
+      "kind": "equity",
+      "groups": [
+        "消费"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600819",
+      "name": "耀皮玻璃",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600855",
+      "name": "航天长峰",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600869",
+      "name": "远东股份",
+      "kind": "equity",
+      "groups": [
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600879",
+      "name": "航天电子",
+      "kind": "equity",
+      "groups": [
+        "商业航天"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600967",
+      "name": "内蒙一机",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600985",
+      "name": "淮北矿业",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600988",
+      "name": "赤峰黄金",
+      "kind": "equity",
+      "groups": [
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "600989",
+      "name": "宝丰能源",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601069",
+      "name": "西部黄金",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601086",
+      "name": "国芳集团",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601099",
+      "name": "太平洋",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601138",
+      "name": "工业富联",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601168",
+      "name": "西部矿业",
+      "kind": "equity",
+      "groups": [
+        "0903",
+        "9月观察池",
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601179",
+      "name": "中国西电",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601208",
+      "name": "东材科技",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "我的股票"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601212",
+      "name": "白银有色",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601225",
+      "name": "陕西煤业",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601233",
+      "name": "桐昆股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601615",
+      "name": "明阳智能",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601669",
+      "name": "中国电建",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601869",
+      "name": "长飞光纤",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601872",
+      "name": "招商轮船",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601882",
+      "name": "海天精工",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601888",
+      "name": "中国中免",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601899",
+      "name": "紫金矿业",
+      "kind": "equity",
+      "groups": [
+        "9月观察池",
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "601975",
+      "name": "招商南油",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603019",
+      "name": "中科曙光",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603031",
+      "name": "安孚科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603083",
+      "name": "剑桥科技",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603127",
+      "name": "昭衍新药",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603129",
+      "name": "春风动力",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603221",
+      "name": "爱丽家居",
+      "kind": "equity",
+      "groups": [
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603228",
+      "name": "景旺电子",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603259",
+      "name": "药明康德",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603268",
+      "name": "松发股份",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "观察池",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603297",
+      "name": "永新光学",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603308",
+      "name": "应流股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603386",
+      "name": "骏亚科技",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603421",
+      "name": "鼎信通讯",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603466",
+      "name": "风语筑",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603533",
+      "name": "掌阅科技",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603596",
+      "name": "伯特利",
+      "kind": "equity",
+      "groups": [
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603601",
+      "name": "再升科技",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603629",
+      "name": "利通电子",
+      "kind": "equity",
+      "groups": [
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603650",
+      "name": "彤程新材",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603687",
+      "name": "大胜达",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603799",
+      "name": "华友钴业",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603890",
+      "name": "春秋电子",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603893",
+      "name": "瑞芯微",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603920",
+      "name": "世运电路",
+      "kind": "equity",
+      "groups": [
+        "0903"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603936",
+      "name": "博敏电子",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603938",
+      "name": "三孚股份",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603979",
+      "name": "金诚信",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "603993",
+      "name": "洛阳钼业",
+      "kind": "equity",
+      "groups": [
+        "9月观察池",
+        "铜相关"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "605058",
+      "name": "澳弘电子",
+      "kind": "equity",
+      "groups": [
+        "保留补充观察"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "605117",
+      "name": "德业股份",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "605168",
+      "name": "三人行",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "605179",
+      "name": "一鸣食品",
+      "kind": "equity",
+      "groups": [
+        "消费"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "605376",
+      "name": "博迁新材",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688002",
+      "name": "睿创微纳",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688008",
+      "name": "澜起科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688025",
+      "name": "杰普特",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688027",
+      "name": "国盾量子",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688037",
+      "name": "芯源微",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688041",
+      "name": "海光信息",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688048",
+      "name": "长光华芯",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688052",
+      "name": "纳芯微",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688099",
+      "name": "晶晨股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688127",
+      "name": "蓝特光学",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688141",
+      "name": "杰华特",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688146",
+      "name": "中船特气",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "我的股票"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688167",
+      "name": "炬光科技",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688170",
+      "name": "德龙激光",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688179",
+      "name": "阿拉丁",
+      "kind": "equity",
+      "groups": [
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688183",
+      "name": "生益电子",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688195",
+      "name": "腾景科技",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688205",
+      "name": "德科立",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688222",
+      "name": "成都先导",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "观察池",
+        "我的股票"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688223",
+      "name": "晶科能源",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688256",
+      "name": "寒武纪",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688257",
+      "name": "新锐股份",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688307",
+      "name": "中润光学",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688312",
+      "name": "燕麦科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688313",
+      "name": "仕佳光子",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO",
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688333",
+      "name": "铂力特",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688362",
+      "name": "甬矽电子",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688368",
+      "name": "晶丰明源",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688372",
+      "name": "伟测科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688388",
+      "name": "嘉元科技",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688390",
+      "name": "固德威",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688396",
+      "name": "华润微",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688403",
+      "name": "汇成股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688480",
+      "name": "赛恩斯",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "观察池"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688498",
+      "name": "源杰科技",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688515",
+      "name": "裕太微-U",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688521",
+      "name": "芯原股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688545",
+      "name": "兴福电子",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688559",
+      "name": "海目星",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688615",
+      "name": "合合信息",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688663",
+      "name": "新风光",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688702",
+      "name": "盛科通信-U",
+      "kind": "equity",
+      "groups": [
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688717",
+      "name": "艾罗能源",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688766",
+      "name": "普冉股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688800",
+      "name": "瑞可达",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "CPO"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688807",
+      "name": "优迅股份",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688825",
+      "name": "长鑫科技",
+      "kind": "equity",
+      "groups": [
+        "自选股",
+        "9月观察池",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "688981",
+      "name": "中芯国际",
+      "kind": "equity",
+      "groups": [
+        "CPO",
+        "观察池",
+        "策略盘"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "881156",
+      "name": "保险",
+      "kind": "reference_index",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "881157",
+      "name": "证券",
+      "kind": "reference_index",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "886065",
+      "name": "可控核聚变",
+      "kind": "reference_index",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "920368",
+      "name": "连城数控",
+      "kind": "equity",
+      "groups": [
+        "自选股"
+      ],
+      "entry_authorized": false
+    },
+    {
+      "code": "920808",
+      "name": "曙光数创",
+      "kind": "equity",
+      "groups": [
+        "9月观察池"
+      ],
+      "entry_authorized": false
+    }
+  ]
+}
