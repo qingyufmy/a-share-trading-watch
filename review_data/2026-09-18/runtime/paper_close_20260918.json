@@ -1,0 +1,73 @@
+{
+  "trading_date": "2026-09-18",
+  "generated_at": "2026-09-18 15:15:25",
+  "issues": [],
+  "account": {
+    "initial_cash": 1000000.0,
+    "cash": 952893.26,
+    "market_value": 31176.0,
+    "total_assets": 984069.26,
+    "position_pct": 3.168069694606658,
+    "day_pnl": 427.69000000006054,
+    "day_return_pct": 0.04348026893577307,
+    "cumulative_pnl": -15930.73999999999,
+    "cumulative_return_pct": -1.5930739999999992,
+    "unrealized_pnl": 427.6899999999987,
+    "realized_pnl": -16358.42999999999,
+    "fees_today": 15.309999999999999,
+    "fills_today": 3
+  },
+  "positions": [
+    {
+      "symbol": "002519",
+      "name": "银河电子",
+      "quantity": 1600,
+      "sellable": 0,
+      "avg_cost": 6.1631875,
+      "close": 6.1,
+      "market_value": 9760.0,
+      "day_pnl": -101.10000000000036,
+      "day_return_pct": -1.0252405918203888,
+      "cumulative_pnl": -101.10000000000036,
+      "cumulative_return_pct": -1.0252405918203888,
+      "unrealized_pnl": -101.10000000000036,
+      "fees_today": 5.1,
+      "buy_qty": 1600,
+      "sell_qty": 0
+    },
+    {
+      "symbol": "600184",
+      "name": "光电股份",
+      "quantity": 400,
+      "sellable": 0,
+      "avg_cost": 21.712725,
+      "close": 21.76,
+      "market_value": 8704.0,
+      "day_pnl": 18.909999999999854,
+      "day_return_pct": 0.21772946509477567,
+      "cumulative_pnl": 18.909999999999854,
+      "cumulative_return_pct": 0.21772946509477567,
+      "unrealized_pnl": 18.909999999999854,
+      "fees_today": 5.09,
+      "buy_qty": 400,
+      "sell_qty": 0
+    },
+    {
+      "symbol": "688028",
+      "name": "沃尔德",
+      "quantity": 100,
+      "sellable": 0,
+      "avg_cost": 122.02120000000001,
+      "close": 127.12,
+      "market_value": 12712.0,
+      "day_pnl": 509.8799999999992,
+      "day_return_pct": 4.178618141765522,
+      "cumulative_pnl": 33.89999999999782,
+      "cumulative_return_pct": 0.14027833870721226,
+      "unrealized_pnl": 509.8799999999992,
+      "fees_today": 5.12,
+      "buy_qty": 100,
+      "sell_qty": 0
+    }
+  ]
+}

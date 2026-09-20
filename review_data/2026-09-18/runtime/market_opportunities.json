@@ -1,0 +1,1686 @@
+{
+  "updated_at": "2026-09-18 15:00:55",
+  "trading_date": "2026-09-18",
+  "opportunities": [
+    {
+      "code": "603986",
+      "name": "兆易创新",
+      "status": "🟢 替代机会",
+      "tone": "green",
+      "current_price": 388.18,
+      "pct": 4.95,
+      "vwap": 384.59704950752297,
+      "trigger_price": 388.18,
+      "invalid_price": 386.22,
+      "amount_yi": 157.87688481,
+      "axes": {
+        "recognition": "green",
+        "position": "green",
+        "odds": "green",
+        "total": 6
+      },
+      "axes_text": "辨识度🟢｜位置🟢｜赔率🟢",
+      "focus": "全市场框架筛选：半导体｜主线匹配：科技、第四代半导体、半导体设备、半导体、半导体材料、半导体概念、第三代半导体｜强度评分：13.2",
+      "theme_evidence": {
+        "valid": true,
+        "candidate_families": [
+          "technology"
+        ],
+        "board_families": [
+          "agriculture",
+          "consumer",
+          "defense",
+          "energy",
+          "finance",
+          "infrastructure",
+          "materials",
+          "media",
+          "medical",
+          "technology"
+        ],
+        "shared_families": [
+          "technology"
+        ],
+        "labels": [
+          "科技",
+          "第四代半导体",
+          "半导体设备",
+          "半导体",
+          "半导体材料",
+          "半导体概念",
+          "第三代半导体"
+        ],
+        "reason": "行业/题材与当日板块一致：科技、第四代半导体、半导体设备、半导体、半导体材料、半导体概念、第三代半导体",
+        "source": "industry_concepts_vs_board"
+      },
+      "framework_validation": {
+        "valid": true,
+        "reason": "实时框架已核验"
+      },
+      "candidate_source": null,
+      "tracked_candidate": null,
+      "rotation_pilot": null,
+      "entry_position_cap_pct": null,
+      "framework_execution": {},
+      "framework_trade_style": "未分类",
+      "framework_trade_style_reason": "未取得可执行的盘后趋势分类",
+      "tracked_status": null,
+      "action": "候选观察，暂不模拟成交：缺少盘后月线/日线/筹码/时间台账，只能观察；非连续竞价进攻时段；分钟量能未达模拟门槛：1m 0.00/1.30，5m 1.95/1.15。等待回踩VWAP 384.60 不破或放量站稳 388.18，失效 386.22。",
+      "radar_gate_ok": false,
+      "radar_gate_reason": "缺少盘后月线/日线/筹码/时间台账，只能观察；非连续竞价进攻时段；分钟量能未达模拟门槛：1m 0.00/1.30，5m 1.95/1.15",
+      "market_opportunity_gate_ok": true,
+      "market_opportunity_gate_stage": "",
+      "market_opportunity_gate_reason": "",
+      "risk_bucket": "technology",
+      "sector_momentum": {
+        "sector_name": "半导体",
+        "board_name": "半导体",
+        "board_id": "BK1036",
+        "board_pct": 4.35,
+        "selection_basis": "authorized_identity_then_live_persistence_then_business_priority",
+        "emotion_ok": true,
+        "reason": "板块情绪：半导体 4.35%；半导体 连续12次刷新强势，领涨 普冉股份 承接有效；半导体 连续12次刷新强势，领涨 普冉股份 承接有效",
+        "theme_evidence": {
+          "valid": true,
+          "candidate_families": [
+            "technology"
+          ],
+          "board_families": [
+            "agriculture",
+            "consumer",
+            "defense",
+            "energy",
+            "finance",
+            "infrastructure",
+            "materials",
+            "media",
+            "medical",
+            "technology"
+          ],
+          "shared_families": [
+            "technology"
+          ],
+          "labels": [
+            "科技",
+            "第四代半导体",
+            "半导体设备",
+            "半导体",
+            "半导体材料",
+            "半导体概念",
+            "第三代半导体"
+          ],
+          "reason": "行业/题材与当日板块一致：科技、第四代半导体、半导体设备、半导体、半导体材料、半导体概念、第三代半导体",
+          "source": "industry_concepts_vs_board"
+        },
+        "matched_boards": [
+          {
+            "board_name": "第四代半导体",
+            "board_pct": 4.96,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体设备",
+            "board_pct": 4.83,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体",
+            "board_pct": 4.35,
+            "match_score": 100
+          },
+          {
+            "board_name": "半导体材料",
+            "board_pct": 3.11,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体概念",
+            "board_pct": 3.06,
+            "match_score": 80
+          },
+          {
+            "board_name": "第三代半导体",
+            "board_pct": 2.79,
+            "match_score": 80
+          }
+        ],
+        "rotation_confirmed": true
+      },
+      "sector_rotation": {
+        "available": true,
+        "board_name": "半导体",
+        "board_pct": 4.35,
+        "previous_pct": 4.36,
+        "samples": 12,
+        "sustained": true,
+        "leader": {
+          "code": "688766",
+          "name": "普冉股份",
+          "pct": 10.06,
+          "amount_yi": 64.2285,
+          "close": 430.0,
+          "open": 405.61,
+          "turnover": 10.31,
+          "float_market_cap_yi": 0.0
+        },
+        "leader_healthy": true,
+        "leader_liquidity": {
+          "ok": true,
+          "amount_yi": 64.228,
+          "projected_amount_yi": 64.228,
+          "turnover": 10.31,
+          "traded_float_pct": 0.0,
+          "elapsed_fraction": 1.0
+        },
+        "reason": "半导体 连续12次刷新强势，领涨 普冉股份 承接有效"
+      },
+      "sector_emotion": "板块情绪：半导体 4.35%；半导体 连续12次刷新强势，领涨 普冉股份 承接有效；半导体 连续12次刷新强势，领涨 普冉股份 承接有效",
+      "amount_ratio_1m": 0.0,
+      "amount_ratio_5m": 1.9454545454545455,
+      "sector_volume": "0.00/1.95",
+      "vwap_distance_pct": 0.9230126468331802,
+      "execution_band_low": 384.91,
+      "execution_band_high": 388.96000000000004
+    },
+    {
+      "code": "000725",
+      "name": "京东方Ａ",
+      "status": "🟢 替代机会",
+      "tone": "green",
+      "current_price": 5.92,
+      "pct": 2.96,
+      "vwap": 5.852761527621774,
+      "trigger_price": 5.92,
+      "invalid_price": 5.89,
+      "amount_yi": 123.5553,
+      "axes": {
+        "recognition": "green",
+        "position": "green",
+        "odds": "green",
+        "total": 6
+      },
+      "axes_text": "辨识度🟢｜位置🟢｜赔率🟢",
+      "focus": "全市场框架筛选：光学光电子｜主线匹配：AI、人工智能、CPO、芯片、先进封装、新质生产力｜强度评分：6.0｜候选依据：AI、人工智能、CPO、芯片、先进封装｜技术确认：MA5/10/20=5.51/5.51/5.66；趋势OK；中期OK；不过热；无放量长阴；近20日高低=6.02/5.21；量比5日=0.03｜竞价评分10.8｜来源：report:auction_20260918_0925",
+      "theme_evidence": {
+        "valid": true,
+        "candidate_families": [
+          "technology"
+        ],
+        "board_families": [
+          "agriculture",
+          "consumer",
+          "defense",
+          "energy",
+          "finance",
+          "infrastructure",
+          "materials",
+          "media",
+          "medical",
+          "technology"
+        ],
+        "shared_families": [
+          "technology"
+        ],
+        "labels": [
+          "科技",
+          "电子",
+          "光学光电子"
+        ],
+        "reason": "行业/题材与当日板块一致：科技、电子、光学光电子",
+        "source": "industry_concepts_vs_board"
+      },
+      "framework_validation": {
+        "valid": true,
+        "executable": true,
+        "reason": "框架主题证据可用",
+        "industry_families": [],
+        "theme_families": [],
+        "industry_text": "",
+        "theme_text": ""
+      },
+      "candidate_source": "report:auction_20260918_0925",
+      "tracked_candidate": true,
+      "rotation_pilot": null,
+      "entry_position_cap_pct": null,
+      "framework_execution": {},
+      "framework_trade_style": "未分类",
+      "framework_trade_style_reason": "未取得可执行的盘后趋势分类",
+      "tracked_status": "🟡 等待确认",
+      "action": "候选观察，暂不模拟成交：缺少盘后月线/日线/筹码/时间台账，只能观察；候选来源已过期：335分钟 > 15分钟；非连续竞价进攻时段。等待回踩VWAP 5.85 不破或放量站稳 5.92，失效 5.89。",
+      "radar_gate_ok": false,
+      "radar_gate_reason": "缺少盘后月线/日线/筹码/时间台账，只能观察；候选来源已过期：335分钟 > 15分钟；非连续竞价进攻时段",
+      "market_opportunity_gate_ok": true,
+      "market_opportunity_gate_stage": "",
+      "market_opportunity_gate_reason": "",
+      "risk_bucket": "technology",
+      "sector_momentum": {
+        "sector_name": "光学光电子",
+        "board_name": "光学光电子",
+        "board_id": "BK1038",
+        "board_pct": 1.84,
+        "selection_basis": "authorized_identity_then_live_persistence_then_business_priority",
+        "emotion_ok": true,
+        "reason": "板块情绪：光学光电子 1.84%；光学光电子 连续12次刷新强势，领涨 腾景科技 承接有效；光学光电子 连续12次刷新强势，领涨 腾景科技 承接有效",
+        "theme_evidence": {
+          "valid": true,
+          "candidate_families": [
+            "technology"
+          ],
+          "board_families": [
+            "agriculture",
+            "consumer",
+            "defense",
+            "energy",
+            "finance",
+            "infrastructure",
+            "materials",
+            "media",
+            "medical",
+            "technology"
+          ],
+          "shared_families": [
+            "technology"
+          ],
+          "labels": [
+            "科技",
+            "电子",
+            "光学光电子"
+          ],
+          "reason": "行业/题材与当日板块一致：科技、电子、光学光电子",
+          "source": "industry_concepts_vs_board"
+        },
+        "matched_boards": [
+          {
+            "board_name": "先进封装",
+            "board_pct": 3.57,
+            "match_score": 70
+          },
+          {
+            "board_name": "国产芯片",
+            "board_pct": 2.84,
+            "match_score": 70
+          },
+          {
+            "board_name": "电子",
+            "board_pct": 2.81,
+            "match_score": 80
+          },
+          {
+            "board_name": "玻璃基板",
+            "board_pct": 2.57,
+            "match_score": 70
+          },
+          {
+            "board_name": "钙钛矿电池",
+            "board_pct": 2.57,
+            "match_score": 70
+          },
+          {
+            "board_name": "消费电子概念",
+            "board_pct": 2.48,
+            "match_score": 70
+          },
+          {
+            "board_name": "CPO概念",
+            "board_pct": 2.48,
+            "match_score": 70
+          },
+          {
+            "board_name": "混合现实",
+            "board_pct": 2.32,
+            "match_score": 70
+          },
+          {
+            "board_name": "苹果概念",
+            "board_pct": 2.28,
+            "match_score": 70
+          },
+          {
+            "board_name": "智能穿戴",
+            "board_pct": 2.26,
+            "match_score": 70
+          },
+          {
+            "board_name": "荣耀概念",
+            "board_pct": 2.25,
+            "match_score": 70
+          },
+          {
+            "board_name": "OLED",
+            "board_pct": 2.13,
+            "match_score": 70
+          },
+          {
+            "board_name": "LED概念",
+            "board_pct": 2.02,
+            "match_score": 70
+          },
+          {
+            "board_name": "柔性屏(折叠屏)",
+            "board_pct": 1.96,
+            "match_score": 70
+          },
+          {
+            "board_name": "UWB概念",
+            "board_pct": 1.96,
+            "match_score": 70
+          },
+          {
+            "board_name": "小米概念",
+            "board_pct": 1.94,
+            "match_score": 70
+          },
+          {
+            "board_name": "智慧灯杆",
+            "board_pct": 1.93,
+            "match_score": 70
+          },
+          {
+            "board_name": "物联网",
+            "board_pct": 1.9,
+            "match_score": 70
+          },
+          {
+            "board_name": "光纤概念",
+            "board_pct": 1.88,
+            "match_score": 70
+          },
+          {
+            "board_name": "MiniLED",
+            "board_pct": 1.88,
+            "match_score": 70
+          },
+          {
+            "board_name": "光学光电子",
+            "board_pct": 1.84,
+            "match_score": 100
+          },
+          {
+            "board_name": "消费电子",
+            "board_pct": 1.83,
+            "match_score": 60
+          },
+          {
+            "board_name": "人工智能",
+            "board_pct": 1.76,
+            "match_score": 70
+          },
+          {
+            "board_name": "电池",
+            "board_pct": 1.74,
+            "match_score": 60
+          },
+          {
+            "board_name": "华为概念",
+            "board_pct": 1.7,
+            "match_score": 70
+          },
+          {
+            "board_name": "电子纸概念",
+            "board_pct": 1.64,
+            "match_score": 70
+          },
+          {
+            "board_name": "智慧城市",
+            "board_pct": 1.62,
+            "match_score": 70
+          },
+          {
+            "board_name": "新零售",
+            "board_pct": 1.57,
+            "match_score": 70
+          },
+          {
+            "board_name": "AI应用",
+            "board_pct": 1.53,
+            "match_score": 70
+          },
+          {
+            "board_name": "LED",
+            "board_pct": 1.49,
+            "match_score": 60
+          },
+          {
+            "board_name": "MicroLED",
+            "board_pct": 1.46,
+            "match_score": 70
+          },
+          {
+            "board_name": "虚拟现实",
+            "board_pct": 1.43,
+            "match_score": 70
+          },
+          {
+            "board_name": "显示技术",
+            "board_pct": 1.42,
+            "match_score": 70
+          },
+          {
+            "board_name": "新能源车",
+            "board_pct": 1.42,
+            "match_score": 70
+          },
+          {
+            "board_name": "医美概念",
+            "board_pct": 1.4,
+            "match_score": 70
+          },
+          {
+            "board_name": "互联网医疗",
+            "board_pct": 1.34,
+            "match_score": 70
+          },
+          {
+            "board_name": "超清视频",
+            "board_pct": 1.32,
+            "match_score": 70
+          },
+          {
+            "board_name": "电子竞技",
+            "board_pct": 1.3,
+            "match_score": 70
+          },
+          {
+            "board_name": "新能源",
+            "board_pct": 1.2,
+            "match_score": 60
+          },
+          {
+            "board_name": "屏下摄像",
+            "board_pct": 1.15,
+            "match_score": 70
+          },
+          {
+            "board_name": "央国企改革",
+            "board_pct": 1.08,
+            "match_score": 70
+          },
+          {
+            "board_name": "裸眼3D",
+            "board_pct": 0.36,
+            "match_score": 70
+          }
+        ],
+        "rotation_confirmed": true
+      },
+      "sector_rotation": {
+        "available": true,
+        "board_name": "光学光电子",
+        "board_pct": 1.84,
+        "previous_pct": 1.86,
+        "samples": 12,
+        "sustained": true,
+        "leader": {
+          "code": "688195",
+          "name": "腾景科技",
+          "pct": 6.39,
+          "amount_yi": 21.6391,
+          "close": 199.48,
+          "open": 190.88,
+          "turnover": 6.13,
+          "float_market_cap_yi": 0.0
+        },
+        "leader_healthy": true,
+        "leader_liquidity": {
+          "ok": true,
+          "amount_yi": 21.639,
+          "projected_amount_yi": 21.639,
+          "turnover": 6.13,
+          "traded_float_pct": 0.0,
+          "elapsed_fraction": 1.0
+        },
+        "reason": "光学光电子 连续12次刷新强势，领涨 腾景科技 承接有效"
+      },
+      "sector_emotion": "板块情绪：光学光电子 1.84%；光学光电子 连续12次刷新强势，领涨 腾景科技 承接有效；光学光电子 连续12次刷新强势，领涨 腾景科技 承接有效",
+      "amount_ratio_1m": 0.0,
+      "amount_ratio_5m": 1.0158349588559765,
+      "sector_volume": "0.00/1.02",
+      "vwap_distance_pct": 1.1357850063889527,
+      "execution_band_low": 5.88,
+      "execution_band_high": 5.95
+    },
+    {
+      "code": "300604",
+      "name": "长川科技",
+      "status": "🟢 替代机会",
+      "tone": "green",
+      "current_price": 279.73,
+      "pct": 4.71,
+      "vwap": 276.63219879672295,
+      "trigger_price": 279.73,
+      "invalid_price": 278.3,
+      "amount_yi": 64.8323925806,
+      "axes": {
+        "recognition": "green",
+        "position": "green",
+        "odds": "green",
+        "total": 6
+      },
+      "axes_text": "辨识度🟢｜位置🟢｜赔率🟢",
+      "focus": "全市场框架筛选：半导体｜主线匹配：科技、第四代半导体、半导体设备、半导体、半导体材料、半导体概念、第三代半导体｜强度评分：11.1",
+      "theme_evidence": {
+        "valid": true,
+        "candidate_families": [
+          "technology"
+        ],
+        "board_families": [
+          "agriculture",
+          "consumer",
+          "defense",
+          "energy",
+          "finance",
+          "infrastructure",
+          "materials",
+          "media",
+          "medical",
+          "technology"
+        ],
+        "shared_families": [
+          "technology"
+        ],
+        "labels": [
+          "科技",
+          "第四代半导体",
+          "半导体设备",
+          "半导体",
+          "半导体材料",
+          "半导体概念",
+          "第三代半导体"
+        ],
+        "reason": "行业/题材与当日板块一致：科技、第四代半导体、半导体设备、半导体、半导体材料、半导体概念、第三代半导体",
+        "source": "industry_concepts_vs_board"
+      },
+      "framework_validation": {
+        "valid": true,
+        "reason": "实时框架已核验"
+      },
+      "candidate_source": null,
+      "tracked_candidate": null,
+      "rotation_pilot": null,
+      "entry_position_cap_pct": null,
+      "framework_execution": {},
+      "framework_trade_style": "未分类",
+      "framework_trade_style_reason": "未取得可执行的盘后趋势分类",
+      "tracked_status": null,
+      "action": "候选观察，暂不模拟成交：缺少盘后月线/日线/筹码/时间台账，只能观察；非连续竞价进攻时段；分钟量能未达模拟门槛：1m 0.00/1.30，5m 1.14/1.15。等待回踩VWAP 276.63 不破或放量站稳 279.73，失效 278.30。",
+      "radar_gate_ok": false,
+      "radar_gate_reason": "缺少盘后月线/日线/筹码/时间台账，只能观察；非连续竞价进攻时段；分钟量能未达模拟门槛：1m 0.00/1.30，5m 1.14/1.15",
+      "market_opportunity_gate_ok": true,
+      "market_opportunity_gate_stage": "",
+      "market_opportunity_gate_reason": "",
+      "risk_bucket": "technology",
+      "sector_momentum": {
+        "sector_name": "半导体",
+        "board_name": "半导体",
+        "board_id": "BK1036",
+        "board_pct": 4.35,
+        "selection_basis": "authorized_identity_then_live_persistence_then_business_priority",
+        "emotion_ok": true,
+        "reason": "板块情绪：半导体 4.35%；半导体 连续12次刷新强势，领涨 普冉股份 承接有效；半导体 连续12次刷新强势，领涨 普冉股份 承接有效",
+        "theme_evidence": {
+          "valid": true,
+          "candidate_families": [
+            "technology"
+          ],
+          "board_families": [
+            "agriculture",
+            "consumer",
+            "defense",
+            "energy",
+            "finance",
+            "infrastructure",
+            "materials",
+            "media",
+            "medical",
+            "technology"
+          ],
+          "shared_families": [
+            "technology"
+          ],
+          "labels": [
+            "科技",
+            "第四代半导体",
+            "半导体设备",
+            "半导体",
+            "半导体材料",
+            "半导体概念",
+            "第三代半导体"
+          ],
+          "reason": "行业/题材与当日板块一致：科技、第四代半导体、半导体设备、半导体、半导体材料、半导体概念、第三代半导体",
+          "source": "industry_concepts_vs_board"
+        },
+        "matched_boards": [
+          {
+            "board_name": "第四代半导体",
+            "board_pct": 4.96,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体设备",
+            "board_pct": 4.83,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体",
+            "board_pct": 4.35,
+            "match_score": 100
+          },
+          {
+            "board_name": "半导体材料",
+            "board_pct": 3.11,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体概念",
+            "board_pct": 3.06,
+            "match_score": 80
+          },
+          {
+            "board_name": "第三代半导体",
+            "board_pct": 2.79,
+            "match_score": 80
+          }
+        ],
+        "rotation_confirmed": true
+      },
+      "sector_rotation": {
+        "available": true,
+        "board_name": "半导体",
+        "board_pct": 4.35,
+        "previous_pct": 4.36,
+        "samples": 12,
+        "sustained": true,
+        "leader": {
+          "code": "688766",
+          "name": "普冉股份",
+          "pct": 10.06,
+          "amount_yi": 64.2285,
+          "close": 430.0,
+          "open": 405.61,
+          "turnover": 10.31,
+          "float_market_cap_yi": 0.0
+        },
+        "leader_healthy": true,
+        "leader_liquidity": {
+          "ok": true,
+          "amount_yi": 64.228,
+          "projected_amount_yi": 64.228,
+          "turnover": 10.31,
+          "traded_float_pct": 0.0,
+          "elapsed_fraction": 1.0
+        },
+        "reason": "半导体 连续12次刷新强势，领涨 普冉股份 承接有效"
+      },
+      "sector_emotion": "板块情绪：半导体 4.35%；半导体 连续12次刷新强势，领涨 普冉股份 承接有效；半导体 连续12次刷新强势，领涨 普冉股份 承接有效",
+      "amount_ratio_1m": 0.0,
+      "amount_ratio_5m": 1.1407969639468691,
+      "sector_volume": "0.00/1.14",
+      "vwap_distance_pct": 1.107425447137265,
+      "execution_band_low": 276.86,
+      "execution_band_high": 280.29
+    },
+    {
+      "code": "688347",
+      "name": "华虹宏力",
+      "status": "🟢 替代机会",
+      "tone": "green",
+      "current_price": 234.0,
+      "pct": 5.93,
+      "vwap": 230.9042129413398,
+      "trigger_price": 234.0,
+      "invalid_price": 232.85,
+      "amount_yi": 56.42727169999999,
+      "axes": {
+        "recognition": "green",
+        "position": "green",
+        "odds": "green",
+        "total": 6
+      },
+      "axes_text": "辨识度🟢｜位置🟢｜赔率🟢",
+      "focus": "全市场框架筛选：半导体｜主线匹配：科技、第四代半导体、半导体设备、半导体、半导体材料、半导体概念、第三代半导体｜强度评分：10.8",
+      "theme_evidence": {
+        "valid": true,
+        "candidate_families": [
+          "technology"
+        ],
+        "board_families": [
+          "agriculture",
+          "consumer",
+          "defense",
+          "energy",
+          "finance",
+          "infrastructure",
+          "materials",
+          "media",
+          "medical",
+          "technology"
+        ],
+        "shared_families": [
+          "technology"
+        ],
+        "labels": [
+          "科技",
+          "第四代半导体",
+          "半导体设备",
+          "半导体",
+          "半导体材料",
+          "半导体概念",
+          "第三代半导体"
+        ],
+        "reason": "行业/题材与当日板块一致：科技、第四代半导体、半导体设备、半导体、半导体材料、半导体概念、第三代半导体",
+        "source": "industry_concepts_vs_board"
+      },
+      "framework_validation": {
+        "valid": true,
+        "reason": "实时框架已核验"
+      },
+      "candidate_source": null,
+      "tracked_candidate": null,
+      "rotation_pilot": null,
+      "entry_position_cap_pct": null,
+      "framework_execution": {},
+      "framework_trade_style": "未分类",
+      "framework_trade_style_reason": "未取得可执行的盘后趋势分类",
+      "tracked_status": null,
+      "action": "候选观察，暂不模拟成交：缺少盘后月线/日线/筹码/时间台账，只能观察；非连续竞价进攻时段；分钟量能未达模拟门槛：1m 0.00/1.30，5m 1.02/1.15。等待回踩VWAP 230.90 不破或放量站稳 234.00，失效 232.85。",
+      "radar_gate_ok": false,
+      "radar_gate_reason": "缺少盘后月线/日线/筹码/时间台账，只能观察；非连续竞价进攻时段；分钟量能未达模拟门槛：1m 0.00/1.30，5m 1.02/1.15",
+      "market_opportunity_gate_ok": true,
+      "market_opportunity_gate_stage": "",
+      "market_opportunity_gate_reason": "",
+      "risk_bucket": "technology",
+      "sector_momentum": {
+        "sector_name": "半导体",
+        "board_name": "半导体",
+        "board_id": "BK1036",
+        "board_pct": 4.35,
+        "selection_basis": "authorized_identity_then_live_persistence_then_business_priority",
+        "emotion_ok": true,
+        "reason": "板块情绪：半导体 4.35%；半导体 连续12次刷新强势，领涨 普冉股份 承接有效；半导体 连续12次刷新强势，领涨 普冉股份 承接有效",
+        "theme_evidence": {
+          "valid": true,
+          "candidate_families": [
+            "technology"
+          ],
+          "board_families": [
+            "agriculture",
+            "consumer",
+            "defense",
+            "energy",
+            "finance",
+            "infrastructure",
+            "materials",
+            "media",
+            "medical",
+            "technology"
+          ],
+          "shared_families": [
+            "technology"
+          ],
+          "labels": [
+            "科技",
+            "第四代半导体",
+            "半导体设备",
+            "半导体",
+            "半导体材料",
+            "半导体概念",
+            "第三代半导体"
+          ],
+          "reason": "行业/题材与当日板块一致：科技、第四代半导体、半导体设备、半导体、半导体材料、半导体概念、第三代半导体",
+          "source": "industry_concepts_vs_board"
+        },
+        "matched_boards": [
+          {
+            "board_name": "第四代半导体",
+            "board_pct": 4.96,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体设备",
+            "board_pct": 4.83,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体",
+            "board_pct": 4.35,
+            "match_score": 100
+          },
+          {
+            "board_name": "半导体材料",
+            "board_pct": 3.11,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体概念",
+            "board_pct": 3.06,
+            "match_score": 80
+          },
+          {
+            "board_name": "第三代半导体",
+            "board_pct": 2.79,
+            "match_score": 80
+          }
+        ],
+        "rotation_confirmed": true
+      },
+      "sector_rotation": {
+        "available": true,
+        "board_name": "半导体",
+        "board_pct": 4.35,
+        "previous_pct": 4.36,
+        "samples": 12,
+        "sustained": true,
+        "leader": {
+          "code": "688766",
+          "name": "普冉股份",
+          "pct": 10.06,
+          "amount_yi": 64.2285,
+          "close": 430.0,
+          "open": 405.61,
+          "turnover": 10.31,
+          "float_market_cap_yi": 0.0
+        },
+        "leader_healthy": true,
+        "leader_liquidity": {
+          "ok": true,
+          "amount_yi": 64.228,
+          "projected_amount_yi": 64.228,
+          "turnover": 10.31,
+          "traded_float_pct": 0.0,
+          "elapsed_fraction": 1.0
+        },
+        "reason": "半导体 连续12次刷新强势，领涨 普冉股份 承接有效"
+      },
+      "sector_emotion": "板块情绪：半导体 4.35%；半导体 连续12次刷新强势，领涨 普冉股份 承接有效；半导体 连续12次刷新强势，领涨 普冉股份 承接有效",
+      "amount_ratio_1m": 0.0,
+      "amount_ratio_5m": 1.0194342506395535,
+      "sector_volume": "0.00/1.02",
+      "vwap_distance_pct": 1.3229859225043559,
+      "execution_band_low": 231.1,
+      "execution_band_high": 234.47
+    },
+    {
+      "code": "688432",
+      "name": "有研硅",
+      "status": "🟢 替代机会",
+      "tone": "green",
+      "current_price": 56.82,
+      "pct": 3.31,
+      "vwap": 55.80706317977769,
+      "trigger_price": 56.82,
+      "invalid_price": 56.68,
+      "amount_yi": 46.048,
+      "axes": {
+        "recognition": "green",
+        "position": "green",
+        "odds": "green",
+        "total": 6
+      },
+      "axes_text": "辨识度🟢｜位置🟢｜赔率🟢",
+      "focus": "全市场框架筛选：半导体｜主线匹配：半导体、芯片、存储、国产替代｜强度评分：6.0｜候选依据：半导体、芯片、存储、国产替代/半导体｜板块共振：半导体｜技术确认：MA5/10/20=51.43/48.38/45.85；趋势OK；中期OK；不过热；无放量长阴；近20日高低=60.59/37.66；量比5日=0.02｜竞价评分9.1｜来源：report:auction_20260918_0925",
+      "theme_evidence": {
+        "valid": true,
+        "candidate_families": [
+          "technology"
+        ],
+        "board_families": [
+          "agriculture",
+          "consumer",
+          "defense",
+          "energy",
+          "finance",
+          "infrastructure",
+          "materials",
+          "media",
+          "medical",
+          "technology"
+        ],
+        "shared_families": [
+          "technology"
+        ],
+        "labels": [
+          "科技",
+          "半导体设备",
+          "第四代半导体",
+          "半导体",
+          "半导体材料",
+          "半导体概念",
+          "第三代半导体"
+        ],
+        "reason": "行业/题材与当日板块一致：科技、半导体设备、第四代半导体、半导体、半导体材料、半导体概念、第三代半导体",
+        "source": "industry_concepts_vs_board"
+      },
+      "framework_validation": {
+        "valid": true,
+        "executable": true,
+        "reason": "框架主题证据可用",
+        "industry_families": [],
+        "theme_families": [],
+        "industry_text": "",
+        "theme_text": ""
+      },
+      "candidate_source": "report:auction_20260918_0925",
+      "tracked_candidate": true,
+      "rotation_pilot": null,
+      "entry_position_cap_pct": null,
+      "framework_execution": {},
+      "framework_trade_style": "未分类",
+      "framework_trade_style_reason": "未取得可执行的盘后趋势分类",
+      "tracked_status": "🟡 等待确认",
+      "action": "候选观察，暂不模拟成交：缺少盘后月线/日线/筹码/时间台账，只能观察；候选来源已过期：335分钟 > 15分钟；非连续竞价进攻时段。等待回踩VWAP 55.81 不破或放量站稳 56.82，失效 56.68。",
+      "radar_gate_ok": false,
+      "radar_gate_reason": "缺少盘后月线/日线/筹码/时间台账，只能观察；候选来源已过期：335分钟 > 15分钟；非连续竞价进攻时段",
+      "market_opportunity_gate_ok": true,
+      "market_opportunity_gate_stage": "",
+      "market_opportunity_gate_reason": "",
+      "risk_bucket": "technology",
+      "sector_momentum": {
+        "sector_name": "半导体",
+        "board_name": "半导体",
+        "board_id": "BK1036",
+        "board_pct": 4.35,
+        "selection_basis": "authorized_identity_then_live_persistence_then_business_priority",
+        "emotion_ok": true,
+        "reason": "板块情绪：半导体 4.35%；半导体 连续12次刷新强势，领涨 普冉股份 承接有效；半导体 连续12次刷新强势，领涨 普冉股份 承接有效",
+        "theme_evidence": {
+          "valid": true,
+          "candidate_families": [
+            "technology"
+          ],
+          "board_families": [
+            "agriculture",
+            "consumer",
+            "defense",
+            "energy",
+            "finance",
+            "infrastructure",
+            "materials",
+            "media",
+            "medical",
+            "technology"
+          ],
+          "shared_families": [
+            "technology"
+          ],
+          "labels": [
+            "科技",
+            "半导体设备",
+            "第四代半导体",
+            "半导体",
+            "半导体材料",
+            "半导体概念",
+            "第三代半导体"
+          ],
+          "reason": "行业/题材与当日板块一致：科技、半导体设备、第四代半导体、半导体、半导体材料、半导体概念、第三代半导体",
+          "source": "industry_concepts_vs_board"
+        },
+        "matched_boards": [
+          {
+            "board_name": "第四代半导体",
+            "board_pct": 4.96,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体设备",
+            "board_pct": 4.83,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体",
+            "board_pct": 4.35,
+            "match_score": 100
+          },
+          {
+            "board_name": "存储芯片",
+            "board_pct": 3.33,
+            "match_score": 70
+          },
+          {
+            "board_name": "半导体材料",
+            "board_pct": 3.11,
+            "match_score": 80
+          },
+          {
+            "board_name": "中芯概念",
+            "board_pct": 3.07,
+            "match_score": 70
+          },
+          {
+            "board_name": "半导体概念",
+            "board_pct": 3.06,
+            "match_score": 80
+          },
+          {
+            "board_name": "第三代半导体",
+            "board_pct": 2.79,
+            "match_score": 80
+          },
+          {
+            "board_name": "并购重组概念",
+            "board_pct": 2.04,
+            "match_score": 70
+          }
+        ],
+        "rotation_confirmed": true
+      },
+      "sector_rotation": {
+        "available": true,
+        "board_name": "半导体",
+        "board_pct": 4.35,
+        "previous_pct": 4.36,
+        "samples": 12,
+        "sustained": true,
+        "leader": {
+          "code": "688766",
+          "name": "普冉股份",
+          "pct": 10.06,
+          "amount_yi": 64.2285,
+          "close": 430.0,
+          "open": 405.61,
+          "turnover": 10.31,
+          "float_market_cap_yi": 0.0
+        },
+        "leader_healthy": true,
+        "leader_liquidity": {
+          "ok": true,
+          "amount_yi": 64.228,
+          "projected_amount_yi": 64.228,
+          "turnover": 10.31,
+          "traded_float_pct": 0.0,
+          "elapsed_fraction": 1.0
+        },
+        "reason": "半导体 连续12次刷新强势，领涨 普冉股份 承接有效"
+      },
+      "sector_emotion": "板块情绪：半导体 4.35%；半导体 连续12次刷新强势，领涨 普冉股份 承接有效；半导体 连续12次刷新强势，领涨 普冉股份 承接有效",
+      "amount_ratio_1m": 0.0,
+      "amount_ratio_5m": 1.686179818088337,
+      "sector_volume": "0.00/1.69",
+      "vwap_distance_pct": 1.7827117568150432,
+      "execution_band_low": 55.86,
+      "execution_band_high": 56.94
+    },
+    {
+      "code": "000100",
+      "name": "TCL科技",
+      "status": "🟢 替代机会",
+      "tone": "green",
+      "current_price": 4.99,
+      "pct": 3.31,
+      "vwap": 4.9440663535155736,
+      "trigger_price": 4.99,
+      "invalid_price": 4.97,
+      "amount_yi": 35.4834,
+      "axes": {
+        "recognition": "green",
+        "position": "green",
+        "odds": "green",
+        "total": 6
+      },
+      "axes_text": "辨识度🟢｜位置🟢｜赔率🟢",
+      "focus": "全市场框架筛选：光学光电子｜主线匹配：AI、人工智能、PCB、新质生产力、AI｜强度评分：6.0｜候选依据：AI、人工智能、PCB、新质生产力/AI｜卫星观察｜评分9.7｜来源：report:premarket_20260918",
+      "theme_evidence": {
+        "valid": true,
+        "candidate_families": [
+          "technology"
+        ],
+        "board_families": [
+          "agriculture",
+          "consumer",
+          "defense",
+          "energy",
+          "finance",
+          "infrastructure",
+          "materials",
+          "media",
+          "medical",
+          "technology"
+        ],
+        "shared_families": [
+          "technology"
+        ],
+        "labels": [
+          "科技",
+          "电子",
+          "光学光电子"
+        ],
+        "reason": "行业/题材与当日板块一致：科技、电子、光学光电子",
+        "source": "industry_concepts_vs_board"
+      },
+      "framework_validation": {
+        "valid": true,
+        "executable": true,
+        "reason": "框架主题证据可用",
+        "industry_families": [],
+        "theme_families": [],
+        "industry_text": "",
+        "theme_text": ""
+      },
+      "candidate_source": "report:premarket_20260918",
+      "tracked_candidate": true,
+      "rotation_pilot": null,
+      "entry_position_cap_pct": null,
+      "framework_execution": {},
+      "framework_trade_style": "未分类",
+      "framework_trade_style_reason": "未取得可执行的盘后趋势分类",
+      "tracked_status": "🟡 等待确认",
+      "action": "候选观察，暂不模拟成交：缺少盘后月线/日线/筹码/时间台账，只能观察；候选来源已过期：379分钟 > 15分钟；非连续竞价进攻时段。等待回踩VWAP 4.94 不破或放量站稳 4.99，失效 4.97。",
+      "radar_gate_ok": false,
+      "radar_gate_reason": "缺少盘后月线/日线/筹码/时间台账，只能观察；候选来源已过期：379分钟 > 15分钟；非连续竞价进攻时段",
+      "market_opportunity_gate_ok": true,
+      "market_opportunity_gate_stage": "",
+      "market_opportunity_gate_reason": "",
+      "risk_bucket": "technology",
+      "sector_momentum": {
+        "sector_name": "光学光电子",
+        "board_name": "光学光电子",
+        "board_id": "BK1038",
+        "board_pct": 1.84,
+        "selection_basis": "authorized_identity_then_live_persistence_then_business_priority",
+        "emotion_ok": true,
+        "reason": "板块情绪：光学光电子 1.84%；光学光电子 连续12次刷新强势，领涨 腾景科技 承接有效；光学光电子 连续12次刷新强势，领涨 腾景科技 承接有效",
+        "theme_evidence": {
+          "valid": true,
+          "candidate_families": [
+            "technology"
+          ],
+          "board_families": [
+            "agriculture",
+            "consumer",
+            "defense",
+            "energy",
+            "finance",
+            "infrastructure",
+            "materials",
+            "media",
+            "medical",
+            "technology"
+          ],
+          "shared_families": [
+            "technology"
+          ],
+          "labels": [
+            "科技",
+            "电子",
+            "光学光电子"
+          ],
+          "reason": "行业/题材与当日板块一致：科技、电子、光学光电子",
+          "source": "industry_concepts_vs_board"
+        },
+        "matched_boards": [
+          {
+            "board_name": "半导体",
+            "board_pct": 4.35,
+            "match_score": 60
+          },
+          {
+            "board_name": "AI芯片",
+            "board_pct": 3.74,
+            "match_score": 70
+          },
+          {
+            "board_name": "半导体概念",
+            "board_pct": 3.06,
+            "match_score": 70
+          },
+          {
+            "board_name": "电子",
+            "board_pct": 2.81,
+            "match_score": 80
+          },
+          {
+            "board_name": "玻璃基板",
+            "board_pct": 2.57,
+            "match_score": 70
+          },
+          {
+            "board_name": "AI眼镜",
+            "board_pct": 2.42,
+            "match_score": 70
+          },
+          {
+            "board_name": "OLED",
+            "board_pct": 2.13,
+            "match_score": 70
+          },
+          {
+            "board_name": "AIPC",
+            "board_pct": 2.02,
+            "match_score": 70
+          },
+          {
+            "board_name": "柔性屏(折叠屏)",
+            "board_pct": 1.96,
+            "match_score": 70
+          },
+          {
+            "board_name": "小米概念",
+            "board_pct": 1.94,
+            "match_score": 70
+          },
+          {
+            "board_name": "MiniLED",
+            "board_pct": 1.88,
+            "match_score": 70
+          },
+          {
+            "board_name": "工业互联网",
+            "board_pct": 1.85,
+            "match_score": 70
+          },
+          {
+            "board_name": "光学光电子",
+            "board_pct": 1.84,
+            "match_score": 100
+          },
+          {
+            "board_name": "人工智能",
+            "board_pct": 1.76,
+            "match_score": 70
+          },
+          {
+            "board_name": "光伏概念",
+            "board_pct": 1.72,
+            "match_score": 70
+          },
+          {
+            "board_name": "华为概念",
+            "board_pct": 1.7,
+            "match_score": 70
+          },
+          {
+            "board_name": "电子纸概念",
+            "board_pct": 1.64,
+            "match_score": 70
+          },
+          {
+            "board_name": "PCB",
+            "board_pct": 1.64,
+            "match_score": 70
+          },
+          {
+            "board_name": "LED",
+            "board_pct": 1.49,
+            "match_score": 60
+          },
+          {
+            "board_name": "MicroLED",
+            "board_pct": 1.46,
+            "match_score": 70
+          },
+          {
+            "board_name": "虚拟现实",
+            "board_pct": 1.43,
+            "match_score": 70
+          },
+          {
+            "board_name": "显示技术",
+            "board_pct": 1.42,
+            "match_score": 70
+          },
+          {
+            "board_name": "屏下摄像",
+            "board_pct": 1.15,
+            "match_score": 70
+          },
+          {
+            "board_name": "电力",
+            "board_pct": 1.09,
+            "match_score": 60
+          },
+          {
+            "board_name": "绿色电力",
+            "board_pct": 1.0,
+            "match_score": 70
+          },
+          {
+            "board_name": "参股银行",
+            "board_pct": 0.72,
+            "match_score": 70
+          },
+          {
+            "board_name": "银行",
+            "board_pct": -0.48,
+            "match_score": 60
+          }
+        ],
+        "rotation_confirmed": true
+      },
+      "sector_rotation": {
+        "available": true,
+        "board_name": "光学光电子",
+        "board_pct": 1.84,
+        "previous_pct": 1.86,
+        "samples": 12,
+        "sustained": true,
+        "leader": {
+          "code": "688195",
+          "name": "腾景科技",
+          "pct": 6.39,
+          "amount_yi": 21.6391,
+          "close": 199.48,
+          "open": 190.88,
+          "turnover": 6.13,
+          "float_market_cap_yi": 0.0
+        },
+        "leader_healthy": true,
+        "leader_liquidity": {
+          "ok": true,
+          "amount_yi": 21.639,
+          "projected_amount_yi": 21.639,
+          "turnover": 6.13,
+          "traded_float_pct": 0.0,
+          "elapsed_fraction": 1.0
+        },
+        "reason": "光学光电子 连续12次刷新强势，领涨 腾景科技 承接有效"
+      },
+      "sector_emotion": "板块情绪：光学光电子 1.84%；光学光电子 连续12次刷新强势，领涨 腾景科技 承接有效；光学光电子 连续12次刷新强势，领涨 腾景科技 承接有效",
+      "amount_ratio_1m": 0.0,
+      "amount_ratio_5m": 1.1829590000246542,
+      "sector_volume": "0.00/1.18",
+      "vwap_distance_pct": 0.9205139576037407,
+      "execution_band_low": 4.97,
+      "execution_band_high": 5.03
+    },
+    {
+      "code": "605358",
+      "name": "立昂微",
+      "status": "🟢 替代机会",
+      "tone": "green",
+      "current_price": 46.5,
+      "pct": 2.72,
+      "vwap": 46.038157871675345,
+      "trigger_price": 46.5,
+      "invalid_price": 46.34,
+      "amount_yi": 21.694,
+      "axes": {
+        "recognition": "yellow",
+        "position": "green",
+        "odds": "green",
+        "total": 5
+      },
+      "axes_text": "辨识度🟡｜位置🟢｜赔率🟢",
+      "focus": "全市场框架筛选：半导体｜主线匹配：人工智能、CPO、半导体、芯片、存储｜强度评分：6.0｜候选依据：人工智能、CPO、半导体、芯片、存储｜板块共振：半导体｜技术确认：MA5/10/20=42.41/42.03/42.57；趋势OK；中期OK；不过热；无放量长阴；近20日高低=46.31/39.30；量比5日=0.04｜竞价评分9.1｜来源：report:auction_20260918_0925",
+      "theme_evidence": {
+        "valid": true,
+        "candidate_families": [
+          "technology"
+        ],
+        "board_families": [
+          "agriculture",
+          "consumer",
+          "defense",
+          "energy",
+          "finance",
+          "infrastructure",
+          "materials",
+          "media",
+          "medical",
+          "technology"
+        ],
+        "shared_families": [
+          "technology"
+        ],
+        "labels": [
+          "科技",
+          "半导体设备",
+          "第四代半导体",
+          "半导体",
+          "半导体材料",
+          "半导体概念",
+          "第三代半导体"
+        ],
+        "reason": "行业/题材与当日板块一致：科技、半导体设备、第四代半导体、半导体、半导体材料、半导体概念、第三代半导体",
+        "source": "industry_concepts_vs_board"
+      },
+      "framework_validation": {
+        "valid": true,
+        "executable": true,
+        "reason": "框架主题证据可用",
+        "industry_families": [],
+        "theme_families": [],
+        "industry_text": "",
+        "theme_text": ""
+      },
+      "candidate_source": "report:auction_20260918_0925",
+      "tracked_candidate": true,
+      "rotation_pilot": null,
+      "entry_position_cap_pct": null,
+      "framework_execution": {},
+      "framework_trade_style": "未分类",
+      "framework_trade_style_reason": "未取得可执行的盘后趋势分类",
+      "tracked_status": "🟡 等待确认",
+      "action": "候选观察，暂不模拟成交：缺少盘后月线/日线/筹码/时间台账，只能观察；候选来源已过期：335分钟 > 15分钟；非连续竞价进攻时段。等待回踩VWAP 46.04 不破或放量站稳 46.50，失效 46.34。",
+      "radar_gate_ok": false,
+      "radar_gate_reason": "缺少盘后月线/日线/筹码/时间台账，只能观察；候选来源已过期：335分钟 > 15分钟；非连续竞价进攻时段",
+      "market_opportunity_gate_ok": true,
+      "market_opportunity_gate_stage": "",
+      "market_opportunity_gate_reason": "",
+      "risk_bucket": "technology",
+      "sector_momentum": {
+        "sector_name": "半导体",
+        "board_name": "半导体",
+        "board_id": "BK1036",
+        "board_pct": 4.35,
+        "selection_basis": "authorized_identity_then_live_persistence_then_business_priority",
+        "emotion_ok": true,
+        "reason": "板块情绪：半导体 4.35%；半导体 连续12次刷新强势，领涨 普冉股份 承接有效；半导体 连续12次刷新强势，领涨 普冉股份 承接有效",
+        "theme_evidence": {
+          "valid": true,
+          "candidate_families": [
+            "technology"
+          ],
+          "board_families": [
+            "agriculture",
+            "consumer",
+            "defense",
+            "energy",
+            "finance",
+            "infrastructure",
+            "materials",
+            "media",
+            "medical",
+            "technology"
+          ],
+          "shared_families": [
+            "technology"
+          ],
+          "labels": [
+            "科技",
+            "半导体设备",
+            "第四代半导体",
+            "半导体",
+            "半导体材料",
+            "半导体概念",
+            "第三代半导体"
+          ],
+          "reason": "行业/题材与当日板块一致：科技、半导体设备、第四代半导体、半导体、半导体材料、半导体概念、第三代半导体",
+          "source": "industry_concepts_vs_board"
+        },
+        "matched_boards": [
+          {
+            "board_name": "第四代半导体",
+            "board_pct": 4.96,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体设备",
+            "board_pct": 4.83,
+            "match_score": 80
+          },
+          {
+            "board_name": "半导体",
+            "board_pct": 4.35,
+            "match_score": 100
+          },
+          {
+            "board_name": "汽车芯片",
+            "board_pct": 3.85,
+            "match_score": 70
+          },
+          {
+            "board_name": "氮化镓",
+            "board_pct": 3.42,
+            "match_score": 70
+          },
+          {
+            "board_name": "存储芯片",
+            "board_pct": 3.33,
+            "match_score": 70
+          },
+          {
+            "board_name": "半导体材料",
+            "board_pct": 3.11,
+            "match_score": 80
+          },
+          {
+            "board_name": "中芯概念",
+            "board_pct": 3.07,
+            "match_score": 70
+          },
+          {
+            "board_name": "半导体概念",
+            "board_pct": 3.06,
+            "match_score": 80
+          },
+          {
+            "board_name": "国产芯片",
+            "board_pct": 2.84,
+            "match_score": 70
+          },
+          {
+            "board_name": "IGBT概念",
+            "board_pct": 2.82,
+            "match_score": 70
+          },
+          {
+            "board_name": "第三代半导体",
+            "board_pct": 2.79,
+            "match_score": 80
+          },
+          {
+            "board_name": "CPO概念",
+            "board_pct": 2.48,
+            "match_score": 70
+          },
+          {
+            "board_name": "商业航天",
+            "board_pct": 2.13,
+            "match_score": 70
+          },
+          {
+            "board_name": "卫星互联网",
+            "board_pct": 2.04,
+            "match_score": 70
+          },
+          {
+            "board_name": "F5G概念",
+            "board_pct": 1.93,
+            "match_score": 60
+          },
+          {
+            "board_name": "物联网",
+            "board_pct": 1.9,
+            "match_score": 70
+          },
+          {
+            "board_name": "通信技术",
+            "board_pct": 1.85,
+            "match_score": 70
+          },
+          {
+            "board_name": "人形机器人",
+            "board_pct": 1.82,
+            "match_score": 70
+          },
+          {
+            "board_name": "机器人",
+            "board_pct": 1.81,
+            "match_score": 60
+          },
+          {
+            "board_name": "通信",
+            "board_pct": 1.81,
+            "match_score": 60
+          },
+          {
+            "board_name": "充电桩",
+            "board_pct": 1.79,
+            "match_score": 70
+          },
+          {
+            "board_name": "5G概念",
+            "board_pct": 1.77,
+            "match_score": 70
+          },
+          {
+            "board_name": "人工智能",
+            "board_pct": 1.76,
+            "match_score": 70
+          },
+          {
+            "board_name": "电网概念",
+            "board_pct": 1.75,
+            "match_score": 70
+          },
+          {
+            "board_name": "智能电网",
+            "board_pct": 1.66,
+            "match_score": 70
+          },
+          {
+            "board_name": "新能源车",
+            "board_pct": 1.42,
+            "match_score": 70
+          },
+          {
+            "board_name": "新能源",
+            "board_pct": 1.2,
+            "match_score": 60
+          },
+          {
+            "board_name": "汽车",
+            "board_pct": 0.87,
+            "match_score": 60
+          }
+        ],
+        "rotation_confirmed": true
+      },
+      "sector_rotation": {
+        "available": true,
+        "board_name": "半导体",
+        "board_pct": 4.35,
+        "previous_pct": 4.36,
+        "samples": 12,
+        "sustained": true,
+        "leader": {
+          "code": "688766",
+          "name": "普冉股份",
+          "pct": 10.06,
+          "amount_yi": 64.2285,
+          "close": 430.0,
+          "open": 405.61,
+          "turnover": 10.31,
+          "float_market_cap_yi": 0.0
+        },
+        "leader_healthy": true,
+        "leader_liquidity": {
+          "ok": true,
+          "amount_yi": 64.228,
+          "projected_amount_yi": 64.228,
+          "turnover": 10.31,
+          "traded_float_pct": 0.0,
+          "elapsed_fraction": 1.0
+        },
+        "reason": "半导体 连续12次刷新强势，领涨 普冉股份 承接有效"
+      },
+      "sector_emotion": "板块情绪：半导体 4.35%；半导体 连续12次刷新强势，领涨 普冉股份 承接有效；半导体 连续12次刷新强势，领涨 普冉股份 承接有效",
+      "amount_ratio_1m": 0.0,
+      "amount_ratio_5m": 1.0206934812760056,
+      "sector_volume": "0.00/1.02",
+      "vwap_distance_pct": 0.9932088781175371,
+      "execution_band_low": 46.08,
+      "execution_band_high": 46.6
+    }
+  ],
+  "rule": "全市场机会只做替代观察；只有自身回踩VWAP不破或放量站回触发价，才进入可执行信号。"
+}

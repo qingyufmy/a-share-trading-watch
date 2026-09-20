@@ -1,0 +1,200 @@
+{
+  "kind": "preopen_quality_check",
+  "trading_date": "2026-09-18",
+  "checked_at": "2026-09-18 08:55:17",
+  "status": "ok",
+  "plan_source": "premarket",
+  "levels": 352,
+  "checks": [
+    {
+      "name": "发布清单一致性",
+      "passed": true,
+      "detail": "three-method-726ef859a0e2febe；50个文件一致",
+      "severity": "blocking"
+    },
+    {
+      "name": "运行文件：intraday_report.py",
+      "passed": true,
+      "detail": "/Users/tonyyu/Library/Application Support/a-share-trading-watch/intraday_report.py",
+      "severity": "required"
+    },
+    {
+      "name": "语法：intraday_report.py",
+      "passed": true,
+      "detail": "ok",
+      "severity": "required"
+    },
+    {
+      "name": "运行文件：realtime_signal_engine.py",
+      "passed": true,
+      "detail": "/Users/tonyyu/Library/Application Support/a-share-trading-watch/realtime_signal_engine.py",
+      "severity": "required"
+    },
+    {
+      "name": "语法：realtime_signal_engine.py",
+      "passed": true,
+      "detail": "ok",
+      "severity": "required"
+    },
+    {
+      "name": "运行文件：paper_trading.py",
+      "passed": true,
+      "detail": "/Users/tonyyu/Library/Application Support/a-share-trading-watch/paper_trading.py",
+      "severity": "required"
+    },
+    {
+      "name": "语法：paper_trading.py",
+      "passed": true,
+      "detail": "ok",
+      "severity": "required"
+    },
+    {
+      "name": "运行文件：core/strategy_discipline.py",
+      "passed": true,
+      "detail": "/Users/tonyyu/Library/Application Support/a-share-trading-watch/core/strategy_discipline.py",
+      "severity": "required"
+    },
+    {
+      "name": "语法：core/strategy_discipline.py",
+      "passed": true,
+      "detail": "ok",
+      "severity": "required"
+    },
+    {
+      "name": "运行文件：core/intraday_timing_v2.py",
+      "passed": true,
+      "detail": "/Users/tonyyu/Library/Application Support/a-share-trading-watch/core/intraday_timing_v2.py",
+      "severity": "required"
+    },
+    {
+      "name": "语法：core/intraday_timing_v2.py",
+      "passed": true,
+      "detail": "ok",
+      "severity": "required"
+    },
+    {
+      "name": "运行文件：core/local_market_data.py",
+      "passed": true,
+      "detail": "/Users/tonyyu/Library/Application Support/a-share-trading-watch/core/local_market_data.py",
+      "severity": "required"
+    },
+    {
+      "name": "语法：core/local_market_data.py",
+      "passed": true,
+      "detail": "ok",
+      "severity": "required"
+    },
+    {
+      "name": "计划源",
+      "passed": true,
+      "detail": "premarket: /Users/tonyyu/Library/Application Support/a-share-trading-watch/web_dashboard/data/reports/premarket_20260918.json",
+      "severity": "required"
+    },
+    {
+      "name": "盘前任务与飞书投递",
+      "passed": true,
+      "detail": "08:30盘前任务完成且飞书投递成功",
+      "severity": "required"
+    },
+    {
+      "name": "核心股票池同步",
+      "passed": true,
+      "detail": "核心股票池已验证：45只（ready）",
+      "severity": "blocking"
+    },
+    {
+      "name": "全自选观察池计划同步",
+      "passed": true,
+      "detail": "全量：282只，分组 0903,9月观察池,CPO,保留补充观察,商业航天,我的股票,消费,策略盘,自选股,观察池,铜相关",
+      "severity": "blocking"
+    },
+    {
+      "name": "订盘标的加载",
+      "passed": true,
+      "detail": "加载 352 只",
+      "severity": "required"
+    },
+    {
+      "name": "订盘覆盖",
+      "passed": true,
+      "detail": "覆盖全部自选",
+      "severity": "required"
+    },
+    {
+      "name": "盘前仓位计划完整性",
+      "passed": true,
+      "detail": "所有允许新增的订盘标的均有目标/上限/V2单次仓位",
+      "severity": "required"
+    },
+    {
+      "name": "观察池策略分类与盘中合同",
+      "passed": true,
+      "detail": "分类 LEADER_EMOTION=29、OBSERVE_UNCLASSIFIED=208、TREND_520=40、TREND_MA5=30；当日可进入盘中触发链 64只",
+      "severity": "blocking"
+    },
+    {
+      "name": "三策略动态位计算",
+      "passed": true,
+      "detail": "支撑、阻力、失效与执行区间由大周期及15m/5m已收盘K线实时计算，不使用盘前固定关键位",
+      "severity": "required"
+    },
+    {
+      "name": "日线合格股主线可执行性",
+      "passed": true,
+      "detail": "公司归属及唯一板块代码已验证",
+      "severity": "blocking"
+    },
+    {
+      "name": "订盘标的序列化",
+      "passed": true,
+      "detail": "ok",
+      "severity": "required"
+    },
+    {
+      "name": "实时引擎导入",
+      "passed": true,
+      "detail": "ok",
+      "severity": "required"
+    },
+    {
+      "name": "三策略择时配置",
+      "passed": true,
+      "detail": "three_method_strategy_20260915_entry_evidence #59f630244d3e",
+      "severity": "required"
+    },
+    {
+      "name": "本地K线数据源",
+      "passed": true,
+      "detail": "可用 349/352；结构历史积累中 2；无数据阻断；例外忽略：688825",
+      "severity": "warning"
+    },
+    {
+      "name": "模拟盘数据库",
+      "passed": true,
+      "detail": "可读写",
+      "severity": "required"
+    },
+    {
+      "name": "实时守护进程",
+      "passed": true,
+      "detail": "running",
+      "severity": "required"
+    },
+    {
+      "name": "实时健康状态",
+      "passed": true,
+      "detail": "状态：preopen_monitoring；错误：无",
+      "severity": "required"
+    },
+    {
+      "name": "实时健康时效",
+      "passed": true,
+      "detail": "健康记录滞后 0 秒",
+      "severity": "required"
+    }
+  ],
+  "blockers": [],
+  "warnings": [],
+  "entry_blockers": [],
+  "entry_blocked": false
+}
